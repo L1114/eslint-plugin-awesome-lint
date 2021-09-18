@@ -1,12 +1,17 @@
 {
   "name": "eslint-plugin-awesome-lint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自定义一些eslint规则",
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "todo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L1114/eslint-plugin-awesome-lint.git"
+  },
   "author": "L",
   "main": "lib/index.js",
   "scripts": {
@@ -28,5 +33,9 @@
   "peerDependencies": {
     "eslint": ">=6"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L1114/eslint-plugin-awesome-lint/issues"
+  },
+  "homepage": "https://github.com/L1114/eslint-plugin-awesome-lint#readme"
 }
