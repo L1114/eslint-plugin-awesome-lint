@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-awesome-lint",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "自定义一些eslint规则",
   "keywords": [
     "eslint",
